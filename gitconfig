@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johanelouwrens@gmail.com
+	name = Johan Louwrens
